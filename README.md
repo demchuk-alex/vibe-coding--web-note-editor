@@ -1,5 +1,7 @@
 # Vibe Coding: Web Note Editor
 
+![Web Note Editor Demo](/public/images/demo.png)
+
 A sleek, modern Markdown note editor built with Next.js, Tailwind CSS, and MDXEditor that exemplifies the "vibe coding" approach — creating applications with great user experience and developer ergonomics.
 
 This project was created using the vibe coding methodology for demonstration purposes.
